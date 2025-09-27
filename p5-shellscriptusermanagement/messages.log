@@ -1,0 +1,52 @@
+[INFO] Folder /company dibuat
+[INFO] Folder shared dibuat dengan permission 755
+[INFO] Group marketing dan folder /company/marketing dibuat dengan permission 770
+[INFO] User andi berhasil dibuat dan ditambahkan ke group marketing
+[INFO] User sinta berhasil dibuat dan ditambahkan ke group marketing
+[INFO] User rina berhasil dibuat dan ditambahkan ke group marketing
+[INFO] Group developer dan folder /company/developer dibuat dengan permission 770
+[INFO] User budi berhasil dibuat dan ditambahkan ke group developer
+[INFO] User lisa berhasil dibuat dan ditambahkan ke group developer
+[INFO] User arif berhasil dibuat dan ditambahkan ke group developer
+[INFO] Group finance dan folder /company/finance dibuat dengan permission 770
+[INFO] User rudi berhasil dibuat dan ditambahkan ke group finance
+[INFO] User maya berhasil dibuat dan ditambahkan ke group finance
+[INFO] User tomi berhasil dibuat dan ditambahkan ke group finance
+[INFO] Group design dan folder /company/design dibuat dengan permission 770
+[INFO] User dian berhasil dibuat dan ditambahkan ke group design
+[INFO] User sari berhasil dibuat dan ditambahkan ke group design
+[INFO] User gilang berhasil dibuat dan ditambahkan ke group design
+[WARNING] User sinta sudah ada!
+[INFO] User sintadanjojo berhasil dibuat dan ditambahkan ke group developer
+[INFO] Group hr dan folder /company/hr dibuat dengan permission 770
+[INFO] User nina berhasil dibuat dan ditambahkan ke group hr
+[INFO] User eko berhasil dibuat dan ditambahkan ke group hr
+[INFO] User fitri berhasil dibuat dan ditambahkan ke group hr
+[INFO] Group support dan folder /company/support dibuat dengan permission 770
+[INFO] User bayu berhasil dibuat dan ditambahkan ke group support
+[INFO] User linda berhasil dibuat dan ditambahkan ke group support
+[INFO] User reza berhasil dibuat dan ditambahkan ke group support
+[INFO] Group sales dan folder /company/sales dibuat dengan permission 770
+[INFO] User yusuf berhasil dibuat dan ditambahkan ke group sales
+[INFO] User tina berhasil dibuat dan ditambahkan ke group sales
+[INFO] User adi berhasil dibuat dan ditambahkan ke group sales
+[INFO] Group qa dan folder /company/qa dibuat dengan permission 770
+[INFO] User hendra berhasil dibuat dan ditambahkan ke group qa
+[INFO] User vika berhasil dibuat dan ditambahkan ke group qa
+[INFO] User faris berhasil dibuat dan ditambahkan ke group qa
+[INFO] Group ops dan folder /company/ops dibuat dengan permission 770
+[INFO] User indra berhasil dibuat dan ditambahkan ke group ops
+[INFO] User susi berhasil dibuat dan ditambahkan ke group ops
+[INFO] User joko berhasil dibuat dan ditambahkan ke group ops
+[WARNING] User rudi sudah ada!
+[INFO] User ruditabuti berhasil dibuat dan ditambahkan ke group ops
+[INFO] Group it dan folder /company/it dibuat dengan permission 770
+[INFO] User putri berhasil dibuat dan ditambahkan ke group it
+[INFO] User agus berhasil dibuat dan ditambahkan ke group it
+[INFO] User dewi berhasil dibuat dan ditambahkan ke group it
+[INFO] User ali berhasil dibuat dan ditambahkan ke group marketing
+[INFO] User dwi berhasil dibuat dan ditambahkan ke group developer
+[INFO] User mega berhasil dibuat dan ditambahkan ke group finance
+[INFO] User fajar berhasil dibuat dan ditambahkan ke group design
+[INFO] User wulan berhasil dibuat dan ditambahkan ke group hr
+[INFO] User yani berhasil dibuat dan ditambahkan ke group support
